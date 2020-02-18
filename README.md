@@ -1,1 +1,3 @@
-This is our repo for the Google Hash Code qualifications round
+Repo for the Google Hash Code Project 2020.
+
+[Click here](https://codingcompetitions.withgoogle.com/hashcode) for more info.
