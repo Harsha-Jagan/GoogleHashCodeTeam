@@ -11,7 +11,7 @@ public class Example{
     for(int a=0; a<numSlices; a++){
       slices[a] = scan.nextInt();
     }
-
+//testing
 //    int out = helper(slices, 0, maxCap);
     int out = helperDP(slices, maxCap);
     //write output
